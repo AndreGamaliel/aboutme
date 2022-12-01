@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreGamaliel
 - 👀 I’m interested in Graphic design, Web Development, Game Development
-- 🌱 I’m currently learning Flutter, Django, Unity, C#
+- 🌱 I’m currently learning ReactJS, Typescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me agamalial@gmail.com
