@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndreGamaliel
 - 👀 I’m interested in Graphic design, Web Development, Game Development
-- 🌱 I’m currently learning ReactJS, Typescript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS, Typescript, AngularJS, C++
 - 📫 How to reach me agamalial@gmail.com
